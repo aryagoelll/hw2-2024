@@ -78,6 +78,18 @@ All images have a white 10px dashed border*/
 
 }
 
+div {
+/*A flexible height of at least 125px tall 
+Padding of 20px on all sides
+A 3px solid white border on all sides.*/
+	border-color: #FFFFFF;
+	border-style: solid;
+	border: 3px;
+	padding: 20px;
+	min-height: 125px;
+
+}
+
 ol, ul {
 	list-style: none;
 }
