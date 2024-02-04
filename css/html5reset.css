@@ -70,7 +70,7 @@ img {
 All images are centered 
 All images have a white 10px dashed border*/
 	width: 250px;
-	text-align: center;
+	margin: auto;
 	border: 10px;
 	border-color: #FFFFFF;
 	border-style: dashed;
