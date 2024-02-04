@@ -65,6 +65,17 @@ Padding of 10px on the top and left only */
 	padding-left: 10px;
 }
 
+img {
+/*All images are 250px wide  (do not set a height)
+All images are centered 
+All images have a white 10px dashed border*/
+	width: 250px;
+	text-align: center;
+	border: 10px;
+	border-color: #FFFFFF;
+	border-style: dashed;
+
+}
 
 ol, ul {
 	list-style: none;
